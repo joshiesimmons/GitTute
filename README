@@ -1,5 +1,9 @@
 You're going to make a wedding. To do this, you need to populate a roster (for both the Wedding Party and the Guests), you need to come up with a playlist, and you need to decide on a menu.
 
+The first thing you're going to need to do is clone the repository. The repository URL: https://github.com/joshiesimmons/GitTute
+
+Then, you're going to create a branch. Call the branch whatever you want. You will make your commits in your branch. To practice commits and writing messages, you should commit any time you make a change. For example, populate one text file then commit before you start on another one.
+
 Roster:
 
 Wedding Party -- create two files in Wedding Party; one for the bride and one for the groom. There is no maximum but there is a minimum of 3 people for each person getting married. A simple text document with first and last name on each line (designate a Matron of Honor with 'M' and a Best Man with a 'B')
